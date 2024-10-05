@@ -1,0 +1,34 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/
+
+# Ruby
+*.gem
+*.rbc
+/.bundle/
+/Gemfile.lock
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# Node modules (if using Node.js for asset management)
+node_modules/
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Linux files
+*~
