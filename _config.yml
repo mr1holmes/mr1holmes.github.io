@@ -21,6 +21,7 @@ author:
   url:            https://github.com/mr1holmes
 
 paginate:         5
+paginate_path: "page:num"
 
 # Custom vars
 version:          0.0.1

@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  There are no two words in the English language more harmful than 'good job.'
-</p>
 
 Hey! I'm **Chirag**, a Lead Software Engineer at **Samsung Ads**, where I architect and maintain backend systems that move a *ton* of data around. Specifically, I work on a data ingestion pipeline that stitches together APIs, Airflow DAGs, and Snowflake – helping teams across Samsung Ads make data-driven decisions.
 
