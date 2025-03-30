@@ -14,11 +14,11 @@ title:            Chirag Chauhan
 tagline:          'Your friendly neighbourhood'
 description:      'I write about random things here'
 url:              https://github.com/mr1holmes
-baseurl:          /
+baseurl:          ""
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Chirag Chauhan'
+  url:            https://github.com/mr1holmes
 
 paginate:         5
 
