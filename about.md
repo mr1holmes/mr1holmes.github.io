@@ -4,27 +4,29 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  There are no two words in the English language more harmful than 'good job.'
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hey! I'm **Chirag**, a Lead Software Engineer at **Samsung Ads**, where I architect and maintain backend systems that move a *ton* of data around. Specifically, I work on a data ingestion pipeline that stitches together APIs, Airflow DAGs, and Snowflake – helping teams across Samsung Ads make data-driven decisions.
 
-There are currently two themes built on Poole:
+Outside of work, I'm into:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- 🪐 **Astrophysics** – space stuff fascinates me
+- ⚔️ **Anime** – recently got hooked
+- 🏀 **Basketball** – on and off the court
+- 💻 **Vim** – yes, I use it. yes, on purpose.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Code & Contributions
 
-## Setup
+Python (with type hints!) is my language of choice lately – simple, readable, and powerful. Java's in the toolbox too when needed.
 
-Some fun facts about the setup of this project include:
+I’m passionate about open source. One of my favorite moments recently? [Making a contribution to Apache Airflow](https://github.com/apache/airflow/pull/40705) – a small logging fix, but a big step into the OSS world for me.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+People who contribute heavily to open source inspire me, and I'm excited to keep learning and giving back.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Let’s connect
 
-Thanks for reading!
+- GitHub: [@mr1holmes](https://github.com/mr1holmes)
+- LinkedIn: [chirag-chauhan-33461885](https://www.linkedin.com/in/chirag-chauhan-33461885/)
+
+Thanks for stopping by!
