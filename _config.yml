@@ -1,0 +1,24 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Permalinks
+permalink: /:title/
+
+# Setup
+title:            Chirag Chauhan
+tagline:          ''
+description:      'I write about random things here'
+url:              https://mr1holmes.github.io
+baseurl:          ""
+
+author:
+  name:           'Chirag Chauhan'
+  url:            https://github.com/mr1holmes
+
+paginate:         5
+paginate_path: "/page:num/"
